@@ -25,6 +25,7 @@
 ### 📊 GitHub Stats
 ![Chamoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodaherath&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodaherath&layout=compact&theme=radical)  
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=chamodaherath&theme=radical)
 
 ---
 
