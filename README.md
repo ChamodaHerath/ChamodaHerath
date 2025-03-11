@@ -1,6 +1,6 @@
 ### Hi there, I'm Chamoda Herath! 👋
 
-🚀 **AI & Robotics Enthusiast | AI Hardware Specialist | Problem Solver**
+🚀 **AI & Machine Learning Enthusiast | Problem Solver**
 
 ---
 
