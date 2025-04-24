@@ -6,7 +6,7 @@
 
 ### 🛠️ About Me
 - 🎓 Pursuing **Artificial Intelligence** at the **University of Moratuwa**
-- 🤖 Passionate about **AI & Robotics**, especially the **hardware side**
+- 🤖 Passionate about **AI & Robotics**
 - 🧠 Strong **problem-solving skills**
 - ⚡ Weakness: **Impatient when waiting for work to be completed** (But working on it! 😄)
 
