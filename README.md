@@ -19,7 +19,7 @@
 ✅ **Machine Learning & AI:** PyTorch, TensorFlow  
 ✅ **Multi-Agent Platform:** MESA, CrewAI  
 ✅ **Data Visualization:** Tableau, Power BI  
-✅ **BlockChain Develoment:** Solana,Meteora
+✅ **Blockchain Development:** Solana, Meteora, Orca, Etherium
 
 ---
 
